@@ -12,8 +12,8 @@ Puoi visitare il portfolio qui:
 
 ## 🛠️ Tecnologie utilizzate
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - SASS
 - Bootstrap
 
