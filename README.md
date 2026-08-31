@@ -1,15 +1,14 @@
 Portfolio – Nicola Giovagnoli
 Benvenuto nel mio portfolio personale! 👋
-Questo progetto è stato realizzato come progetto finale del corso HTML e CSS di start2impact.
-Il sito è composto di 3 pagine (index, curriculum e contatti) e sviluppato utilizzando HTML, SASS e Bootstrap.
+Questo progetto è stato realizzato durante il percorso di formazione in Full Stack Development e Agenti AI presso start2impact.
 
 🌐 Sito online
 Puoi visitare il portfolio qui:
-https://nicola-giovagnoli.github.io/Progetto-HTML-e-CSS-di-Nicola-Giovagnoli/index.html
+Visita il portfolio
 
 🛠️ Tecnologie utilizzate
-HTML
-CSS
+HTML5
+CSS3
 SASS
 Bootstrap
 📂 Contenuti
@@ -17,17 +16,35 @@ Il portfolio presenta:
 Una breve presentazione personale
 Il mio curriculum
 I progetti realizzati durante il percorso formativo
-Una sezione "Chi sono"
-I link alle repository GitHub dei singoli progetti
-Un form per contattarmi (non attivo)
+Una sezione dedicata a chi sono
+I collegamenti alle repository GitHub dei progetti
+🚀 Progetti
+🏨 Hotel Pomelia
+Pagina web dedicata a un hotel, realizzata utilizzando HTML e CSS.
+🌱 GreenEarth
+Pagina web realizzata per un'associazione dedicata alla tutela dell'ambiente, utilizzando HTML e CSS.
+💻 Portfolio
+Portfolio personale realizzato utilizzando HTML, SASS e Bootstrap.
+Questo progetto rappresenta il lavoro finale del percorso dedicato a HTML e CSS.
 
-Portfolio
-Portfolio personale realizzato con HTML, SASS e Bootstrap. Progetto finale del corso HTML e CSS.
-
-🎯 Obiettivo
-L'obiettivo del progetto è mettere in pratica le competenze acquisite nello sviluppo di pagine web responsive, nella gestione dello stile tramite CSS/SASS e nell'utilizzo del framework Bootstrap.
-
+🎯 Obiettivo del progetto
+L'obiettivo è mettere in pratica le competenze acquisite nello sviluppo web, con particolare attenzione a:
+Struttura delle pagine con HTML5
+Styling e responsive design con CSS3
+Utilizzo di SASS
+Utilizzo del framework Bootstrap
+Creazione di interfacce moderne e responsive
+Organizzazione e gestione di un progetto web
+📱 Responsive Design
+Il sito è stato progettato per essere visualizzato correttamente su diversi dispositivi, tra cui:
+💻 Desktop
+📱 Smartphone
+📲 Tablet
 👨‍💻 Autore
 Nicola Giovagnoli
+Aspirante Full Stack Developer, appassionato di tecnologia, sviluppo web, cinema, videogiochi, manga e cultura nerd. 🤓
 
-© 2025 Nicola Giovagnoli
+🔗 Link
+🌐 Portfolio online
+💻 GitHub
+© 2026 Nicola Giovagnoli
